@@ -51,7 +51,7 @@ int main()
     {
         for (int j = 0; j < rows; j++)
         {
-            G[i][j] = rand() % 2;
+            G[i][j] = rand()%10 ;
             if (i == j) {
                 G[i][j] = 0;
             }

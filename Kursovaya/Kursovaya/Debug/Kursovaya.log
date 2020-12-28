@@ -1,5 +1,5 @@
-﻿Построение начато 27.12.2020 21:59:46.
-     1>Проект "D:\Данил\Documents\Студенческие задания\#2К1С\ЛоиОА\Kursovaya\Kursovaya\Kursovaya.vcxproj" в узле 2 (целевые объекты build).
+﻿Построение начато 28.12.2020 11:55:05.
+     1>Проект "D:\Данил\Documents\Студенческие задания\#2К1С\ЛоиОА\LabsLogic\Kursovaya\Kursovaya\Kursovaya.vcxproj" в узле 2 (целевые объекты build).
      1>InitializeBuildStatus:
          Создание "Debug\Kursovaya.unsuccessfulbuild", так как было задано "AlwaysCreate".
        ClCompile:
@@ -13,8 +13,8 @@
        FinalizeBuildStatus:
          Файл "Debug\Kursovaya.unsuccessfulbuild" удаляется.
          Обращение к "Debug\Kursovaya.lastbuildstate".
-     1>Построение проекта "D:\Данил\Documents\Студенческие задания\#2К1С\ЛоиОА\Kursovaya\Kursovaya\Kursovaya.vcxproj" завершено (целевые объекты build).
+     1>Построение проекта "D:\Данил\Documents\Студенческие задания\#2К1С\ЛоиОА\LabsLogic\Kursovaya\Kursovaya\Kursovaya.vcxproj" завершено (целевые объекты build).
 
 Построение успешно завершено.
 
-Затраченное время: 00:00:00.04
+Затраченное время: 00:00:00.28
